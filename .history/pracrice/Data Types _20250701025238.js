@@ -1,1 +1,0 @@
-// Lesson 4: Data Types - JS
