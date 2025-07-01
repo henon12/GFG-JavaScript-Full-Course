@@ -22,7 +22,6 @@ My name is Henok.
 I am 22 years old.
 I love coding and learning new things.
 */
-
 // all the key template literal features  examples
 
 
